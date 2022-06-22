@@ -1,0 +1,18 @@
+* {
+    font-family: Helvetica, sans-serif;
+    color: #333333;
+}
+
+h1,
+h2 {
+    font-family: 'Courier New', monospace;
+}
+
+a {
+    color: rgb(15, 129, 0);
+}
+
+img {
+    max-width: 720px;
+    height: auto;
+}
